@@ -12,7 +12,7 @@ This is a robust **Multilingual File Manager Application** built using **Node.js
 ## Project Structure
 
 ```bash
-multilingual-file-manager/
+Multilingual-File-Manager-Application/
 ├── config/
 ├── controllers/
 │   ├── fileController.js
