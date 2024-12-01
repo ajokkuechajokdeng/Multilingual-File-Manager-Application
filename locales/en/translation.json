@@ -1,0 +1,29 @@
+
+{
+  "welcomeMessage": "Welcome to the Multilingual File Manager Application!",
+  "message": "This is a localized message.",
+  "allFieldsRequired": "All fields are required.",
+  "userAlreadyExists": "User exists. Please log in.",
+  "userRegistered": "Registration successful.",
+  "errorRegisteringUser": "Error registering user. Please try again.",
+  "userNotFound": "User not found. Check credentials.",
+  "invalidPassword": "Invalid password. Please try again.",
+  "loginSuccessful": "Login successful.",
+  "errorLoggingIn": "Login error. Please try again.",
+  "fileCreated": "File created successfully.",
+  "filesFetched": "Files retrieved successfully.",
+  "fileFetched": "File retrieved successfully.",
+  "fileNotFound": "File not found. Verify ID.",
+  "fileUpdated": "File updated successfully.",
+  "fileDeleted": "File deleted successfully.",
+  "errorCreatingFile": "Error creating file. Try again.",
+  "errorFetchingFiles": "Error fetching files. Try again.",
+  "errorFetchingFileById": "Error fetching file. Verify ID.",
+  "errorUpdatingFile": "Error updating file. Try again.",
+  "errorDeletingFile": "Error deleting file. Try again."
+}
+
+
+
+
+

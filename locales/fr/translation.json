@@ -1,0 +1,25 @@
+{
+    "welcomeMessage": "Bienvenue dans l'application de gestion de fichiers multilingue !",
+    "message": "Ceci est un message localisé.",
+    "allFieldsRequired": "Tous les champs sont obligatoires.",
+    "userAlreadyExists": "L'utilisateur existe déjà. Veuillez vous connecter.",
+    "userRegistered": "Enregistrement réussi.",
+    "errorRegisteringUser": "Erreur lors de l'enregistrement. Veuillez réessayer.",
+    "userNotFound": "Utilisateur non trouvé. Vérifiez vos identifiants.",
+    "invalidPassword": "Mot de passe invalide. Veuillez réessayer.",
+    "loginSuccessful": "Connexion réussie.",
+    "errorLoggingIn": "Erreur de connexion. Veuillez réessayer.",
+    "fileCreated": "Fichier créé avec succès.",
+    "filesFetched": "Fichiers récupérés avec succès.",
+    "fileFetched": "Fichier récupéré avec succès.",
+    "fileNotFound": "Fichier non trouvé. Vérifiez l'ID.",
+    "fileUpdated": "Fichier mis à jour avec succès.",
+    "fileDeleted": "Fichier supprimé avec succès.",
+    "errorCreatingFile": "Erreur lors de la création du fichier. Veuillez réessayer.",
+    "errorFetchingFiles": "Erreur lors de la récupération des fichiers. Veuillez réessayer.",
+    "errorFetchingFileById": "Erreur lors de la récupération du fichier. Vérifiez l'ID.",
+    "errorUpdatingFile": "Erreur lors de la mise à jour du fichier. Veuillez réessayer.",
+    "errorDeletingFile": "Erreur lors de la suppression du fichier. Veuillez réessayer."
+
+}
+  

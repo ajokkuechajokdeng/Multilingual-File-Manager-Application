@@ -1,0 +1,24 @@
+{
+    "welcomeMessage": "¡Bienvenido a la aplicación de gestión de archivos multilingüe!",
+    "message": "Este es un mensaje localizado.",
+    "allFieldsRequired": "Todos los campos son obligatorios.",
+    "userAlreadyExists": "El usuario ya existe. Por favor, inicie sesión.",
+    "userRegistered": "Registro exitoso.",
+    "errorRegisteringUser": "Error al registrar el usuario. Por favor, inténtelo de nuevo.",
+    "userNotFound": "Usuario no encontrado. Verifique las credenciales.",
+    "invalidPassword": "Contraseña inválida. Por favor, inténtelo de nuevo.",
+    "loginSuccessful": "Inicio de sesión exitoso.",
+    "errorLoggingIn": "Error al iniciar sesión. Por favor, inténtelo de nuevo.",
+    "fileCreated": "Archivo creado con éxito.",
+    "filesFetched": "Archivos recuperados con éxito.",
+    "fileFetched": "Archivo recuperado con éxito.",
+    "fileNotFound": "Archivo no encontrado. Verifique el ID.",
+    "fileUpdated": "Archivo actualizado con éxito.",
+    "fileDeleted": "Archivo eliminado con éxito.",
+    "errorCreatingFile": "Error al crear el archivo. Por favor, inténtelo de nuevo.",
+    "errorFetchingFiles": "Error al recuperar los archivos. Por favor, inténtelo de nuevo.",
+    "errorFetchingFileById": "Error al recuperar el archivo. Verifique el ID.",
+    "errorUpdatingFile": "Error al actualizar el archivo. Por favor, inténtelo de nuevo.",
+    "errorDeletingFile": "Error al eliminar el archivo. Por favor, inténtelo de nuevo."
+}
+  
