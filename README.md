@@ -85,7 +85,7 @@ Multilingual-File-Manager-Application/
 
    - Run migrations:
      ```bash
-    npx sequelize-cli db:migrate
+     npx sequelize-cli db:migrate
      ```
 
 5. Initialize i18next localization files:
