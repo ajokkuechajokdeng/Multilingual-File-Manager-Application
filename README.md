@@ -76,7 +76,19 @@ Multilingual-File-Manager-Application/
    - Create a MySQL database.
    - Update the database configuration in the `models/index.js` file.
 
-4. Initialize i18next localization files:
+4. Set up the database schema using Sequelize migrations:
+
+   - Install the Sequelize CLI globally if not already installed:
+     ```bash
+     npm install -g sequelize-cli
+     ```
+
+   - Run migrations:
+     ```bash
+    npx sequelize-cli db:migrate
+     ```
+
+5. Initialize i18next localization files:
    - Add your localization files in the `locales` directory.
 
 ## Running the Application
@@ -195,7 +207,17 @@ Multilingual-File-Manager-Application/
 
 
 ## Contribution
-We welcome contributions to the Multilingual File Manager Application. Please fork the repository, create a new branch for your changes, and submit a pull request. Ensure all tests pass and the code follows the project’s coding standards.
+We welcome contributions to the Multilingual File Manager Application. Please fork the repository, create a new branch for your changes, and submit a pull request. Ensure all tests pass and the code follows the project’s coding standards.Let's build something awesome together! 🎉
+
+**Why did the file refuse to move?**
+It couldn’t handle the drag! 😄
+
+
+
+
+
+
+
 
 
 
